@@ -1,0 +1,16 @@
+body{
+    background-color: #EEEDEB;
+}
+
+h1, p{
+   color:  #0C1844;
+}
+
+.container-home{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+    margin: 200px 350px;
+}
